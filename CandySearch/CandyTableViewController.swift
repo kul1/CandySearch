@@ -3,7 +3,7 @@
 //  CandySearch
 //
 //  Copyright (c) 2014 Razeware LLC. All rights reserved.
-//
+//  http://www.raywenderlich.com/76519/add-table-view-search-swift
 
 import UIKit
 
